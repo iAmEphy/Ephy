@@ -1,0 +1,15 @@
+/Users/epheras/Projects/Ephy/Ephy/bin/Debug/net5.0/Ephy.deps.json
+/Users/epheras/Projects/Ephy/Ephy/bin/Debug/net5.0/Ephy.runtimeconfig.json
+/Users/epheras/Projects/Ephy/Ephy/bin/Debug/net5.0/Ephy.runtimeconfig.dev.json
+/Users/epheras/Projects/Ephy/Ephy/bin/Debug/net5.0/Ephy.dll
+/Users/epheras/Projects/Ephy/Ephy/bin/Debug/net5.0/ref/Ephy.dll
+/Users/epheras/Projects/Ephy/Ephy/bin/Debug/net5.0/Ephy.pdb
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.csproj.AssemblyReference.cache
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.AssemblyInfoInputs.cache
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.AssemblyInfo.cs
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.csproj.CoreCompileInputs.cache
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.dll
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/ref/Ephy.dll
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.pdb
+/Users/epheras/Projects/Ephy/Ephy/obj/Debug/net5.0/Ephy.genruntimeconfig.cache

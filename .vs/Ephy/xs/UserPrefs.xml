@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C63E6334-6EB0-43D7-AAAA-F7B8E557AE98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Program2/Program2/Program.cs">
+    <Files>
+      <File FileName="Ephy/Program.cs" Line="82" Column="1" />
+      <File FileName="../Program2/Program2/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ephy PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
